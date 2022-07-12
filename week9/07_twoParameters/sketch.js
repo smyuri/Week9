@@ -12,6 +12,7 @@ let message; // message we use to send to pubnub
 
 let noParams = false;
 
+
 var url = new URL(window.location.href);
 let NFC1 = url.searchParams.get("NFC1");
 let NFC2 = url.searchParams.get("NFC2");
