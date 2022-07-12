@@ -1,8 +1,8 @@
 
 let dataServer;
-let pubKey = "YOUR PUBLISH KEY HERE";
-let subKey = "YOUR SUBSCRIBE KEY HERE";
-let secretKey = "YOUR SECRET KEY HERE";
+let pubKey = "pub-c-6f13f86f-1373-45d0-8d30-ebbea8f73496";
+let subKey = "sub-c-5c7c93ad-42b7-4af3-9cce-e78ea25ba5c2";
+let secretKey = "sec-c-ZmZjMTE2NWEtNzE3OS00ZWUwLWFiOGMtN2NlNDlkZDRkYmIy";
 
 let channelName = "foodHistory";
 
