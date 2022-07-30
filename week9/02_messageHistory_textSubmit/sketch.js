@@ -51,7 +51,7 @@ function setup() {
     sendText = createInput();
     sendText.position((windowWidth/2) - 100, windowHeight *0.8);
   
-    sendButton = createButton("Send a message");
+    sendButton = createButton("SEND");
     sendButton.position(sendText.x + sendText.width, windowHeight * 0.8);
     sendButton.mousePressed(sendTheMessage);
 
