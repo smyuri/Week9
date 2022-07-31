@@ -60,7 +60,7 @@ function setup() {
 }
   
 function draw() {
- background(60,150,150)
+ background(0)
 
 
 }
