@@ -88,6 +88,7 @@ function drawMessages(messageHistory) {
   console.log("in draw messages");
 
   console.log(messageHistory);
+  textColor(255);
   textSize(80);
   for (let i = 0; i < messageHistory.length; i++) {
     
